@@ -1,4 +1,4 @@
 # MULTI CLASS TEXT CLASSIFICATION
-- USED TF-IDF VECTOR
-- NAIVE BAYES: TRAIN F1-SCORE 0.72 VAL F1-SCORE 0.67
-- LOGISTIC REGRESSION: TRAIN F1-SCORE 0.80 TEST F1-SCORE 0.75
+- Used TF-IDF vector with Naive Bayes and logistic regression for predicting sentiment
+- Achieved F1-Score of 0.72 for training and 0.67 for validation for naive bayes and 0.80 for training and 0.75 for validation for logistic regression
+- Used - Logistic Regression, Naive Bayes, TF-IDF, sklearn, spacy
